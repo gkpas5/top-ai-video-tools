@@ -4,6 +4,10 @@
 
 ***
 
+## **[ImagineClip](https://imagineclip.com)**
+
+ImagineClip 是一款 Freemium AI 视频生成工具，适合从提示词、图片和特效快速生成 avatar clips、风格化场景和适合社交媒体发布的短视频。
+
 ## **[Elai.io](https://elai.io)**
 
 全能型AI视频平台,从文本到成片一站搞定
