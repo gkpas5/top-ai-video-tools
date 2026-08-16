@@ -62,6 +62,14 @@ Pictory专注于将长文本内容快速转化为短视频,特别适合自媒体
 
 工作流程非常直观:上传脚本或视频链接→AI生成场景和高亮文本→选择模板和画幅比例→添加旁白和音乐→导出。
 
+## **[videos.social](https://videos.social/?utm_source=gkpas5-top-ai-video-tools&utm_medium=directory&utm_campaign=listing-wave-d)**
+把博客、PDF 和提示词转成可编辑的无脸视频。
+
+videos.social 面向内容营销和社交短视频：输入博客、PDF 或提示词，生成可编辑的脚本、分镜和配音，而不是一次锁定的重生成。
+- **适用用户**：需要把长文转成短视频的创作者和营销团队。
+- **起步**：免费 1 次渲染；积分包从 $10 起；1 积分 = 1 次渲染。
+上手只需一次导出，适合先验证成片再购买。
+
 ## **[Descript](https://www.descript.com)**
 
 像编辑文档一样编辑视频,播客制作人的最爱
